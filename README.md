@@ -72,6 +72,7 @@ Figura 5.1. Circuito para comprobar el Teorema de Thévenin.
 
 6. VIDEO
 
+https://youtu.be/WCA4Ug-Vrbg
 
 7. CONCLUSIONES
 
