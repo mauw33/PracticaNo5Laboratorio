@@ -38,30 +38,37 @@ Los simuladores de circuitos electrónicos son muy útiles para explicar el comp
 
 ### 5.1 Arme el circuito que se presenta en la figura 5.1.
 
- ![Screenshot]()
+ ![Screenshot](LaboratorioNo5/1.jpg)
  
 Figura 5.1. Circuito para comprobar el Teorema de Thévenin.
 
 ### 5.2 Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
- ![Screenshot]()
+ ![Screenshot](LaboratorioNo5/2.jpg)
  
 ### 5.3 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
 
- ![Screenshot]()
+ ![Screenshot](LaboratorioNo5/3.jpg)
 
 ### 5.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
- ![Screenshot]()
+ ![Screenshot](LaboratorioNo5/4.jpg)
 
 ### 5.5 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](LaboratorioNo5/5.jpg)
+![Screenshot](LaboratorioNo5/6.jpg)
+![Screenshot](LaboratorioNo5/7.jpg)
+![Screenshot](LaboratorioNo5/8.jpg)
+![Screenshot](LaboratorioNo5/9.jpg)
+
+### Tabla 5.1. Valores del circuito Equivalente de Thévenin
+
+![Screenshot](LaboratorioNo5/10.jpg)
+
+### Tabla 5.2. Comprobacion del teorema de Thévenin
+
+![Screenshot](LaboratorioNo5/11.jpg)
 
 6. VIDEO
 
