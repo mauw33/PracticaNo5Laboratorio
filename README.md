@@ -44,16 +44,13 @@ Figura 5.1. Circuito para comprobar el Teorema de Thévenin.
 
 ### 5.2 Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
-
  ![Screenshot]()
  
 ### 5.3 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
 
-
  ![Screenshot]()
 
 ### 5.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
-
 
  ![Screenshot]()
 
@@ -62,9 +59,11 @@ Figura 5.1. Circuito para comprobar el Teorema de Thévenin.
 ![Screenshot]()
 ![Screenshot]()
 ![Screenshot]()
+![Screenshot]()
+![Screenshot]()
+![Screenshot]()
 
 6. VIDEO
-
 
 
 7. CONCLUSIONES
@@ -74,3 +73,4 @@ Asi mismo tanto para las tablas obtenidas, se comprobó el uso del teorema de su
 
 8. BIBLIOGRAFIA
 
+ Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
